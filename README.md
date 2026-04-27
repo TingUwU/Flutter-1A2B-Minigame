@@ -1,7 +1,7 @@
 # 🐾 1A2B 森林探險 (Forest Adventure)
 
 <p align="center">
-  <img width="1536" height="250" alt="concept" src="https://github.com/user-attachments/assets/2ee83aea-b45d-4604-ab39-a137a2218df8" />
+  <img width="536" height="250" alt="concept" src="https://github.com/user-attachments/assets/2ee83aea-b45d-4604-ab39-a137a2218df8" />
 </p>
 
 > A cross-platform number guessing game built with Flutter. It combines complete Bulls and Cows game logic with a highly polished UI/UX, featuring frosted glass card designs, native video transitions, and confetti effects. Available on iOS and Android.
